@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/drawable/ic_star.xml" value="0.1595" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/drawable/icon_color.xml" value="0.1" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/drawable/item_bg.xml" value="0.173" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/drawable/searchbar_bg.xml" value="0.1585" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/font/montserrat_alternates_thin.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/activity_main.xml" value="0.13" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/fragment_favourite.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/fragment_home.xml" value="0.178125" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/layout_drinks_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/layout_favourite_item.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/layout/searchbar_bg.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TeleTaleem/AndroidStudioProjects/DrinksRecipes/app/src/main/res/menu/bottom_menu.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
